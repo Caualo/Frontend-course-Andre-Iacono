@@ -1,0 +1,25 @@
+/*Segmentando onde quero alterar no arquivo HTML*/
+body {
+    background-color: blue;
+    
+}
+
+h1 {
+    /*Tamanho da letra*/
+    font-size: 50px;
+
+    /*Cor da letra*/
+    color: brown;
+
+    /*Fonte da letra*/
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    /*alinhamento da letra na pagina*/
+    text-align: center;
+
+    /*Espaçamento entre as letras*/
+    letter-spacing: 10px;
+
+    /*Sombreamento nas letras*/
+    text-shadow: 3px 3px;
+}

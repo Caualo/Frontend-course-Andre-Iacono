@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* Usando cores com gradient */
+.square_1 {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    background-image: linear-gradient(to bottom right, red, yellow 70%);
+}
+/* Usando cores com gradient */
+.square_2 {
+      width: 200px;
+    height: 200px;
+    margin: 10px;
+    background-image: radial-gradient(red,black);
+}

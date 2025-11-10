@@ -1,0 +1,28 @@
+body {
+ align-items: center;
+ background-color: darkgrey;
+}
+
+h1 {
+ text-align: center;
+}
+p {
+    text-align: center;
+}
+button {
+    display: block;
+    margin: auto;
+    background-color: green;
+    cursor: pointer;
+    border: 3px solid black;
+
+}
+input {
+    display: block;
+    margin: auto;
+    border: 3px solid black;
+}
+/* Adicionando estilos por ID */
+#message {
+    font-weight: bold;
+}
