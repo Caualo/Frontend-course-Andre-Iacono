@@ -1,2 +1,2 @@
 # Frontend-exercises
-Here is where i put the exercises of the courses i did.
+Here is where i put the exercises of the frontend courses i did.
